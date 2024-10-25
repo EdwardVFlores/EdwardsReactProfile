@@ -21,3 +21,7 @@
     width: 80vw;
     margin: 8px 0 0 0;
 }
+
+.fa-gamepad, .fa-clipboard-question, .fa-camera {
+    margin: 0 8px 0 0;
+}
