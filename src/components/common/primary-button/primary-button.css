@@ -20,6 +20,6 @@
     background-color: slateblue;
     transform: scale(1.05);
 }
-.fa-linkedin {
+.fa-linkedin, .fa-gamepad, .fa-clipboard-question, .fa-camera {
     margin: 0 8px 0 0;
 }
