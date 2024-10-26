@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EdwardsReactProfile/static/css/main.f4d2bf44.css",
+    "main.css": "/EdwardsReactProfile/static/css/main.9608f230.css",
     "main.js": "/EdwardsReactProfile/static/js/main.15d5c52c.js",
     "static/js/453.c1c2e1b5.chunk.js": "/EdwardsReactProfile/static/js/453.c1c2e1b5.chunk.js",
     "static/media/website.png": "/EdwardsReactProfile/static/media/website.474e74d09c593c340f26.png",
@@ -15,12 +15,12 @@
     "static/media/fa-v4compatibility.ttf": "/EdwardsReactProfile/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/EdwardsReactProfile/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/EdwardsReactProfile/index.html",
-    "main.f4d2bf44.css.map": "/EdwardsReactProfile/static/css/main.f4d2bf44.css.map",
+    "main.9608f230.css.map": "/EdwardsReactProfile/static/css/main.9608f230.css.map",
     "main.15d5c52c.js.map": "/EdwardsReactProfile/static/js/main.15d5c52c.js.map",
     "453.c1c2e1b5.chunk.js.map": "/EdwardsReactProfile/static/js/453.c1c2e1b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4d2bf44.css",
+    "static/css/main.9608f230.css",
     "static/js/main.15d5c52c.js"
   ]
 }
