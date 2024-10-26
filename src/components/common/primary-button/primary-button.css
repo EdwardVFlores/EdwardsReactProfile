@@ -9,7 +9,7 @@
     flex: auto;
     background-color: white;
     color: slateblue;
-    width: 80%;
+    width: 100%;
     max-width: 500px;
     transition: transform 0.5s ease;
 }

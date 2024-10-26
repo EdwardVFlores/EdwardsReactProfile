@@ -1,0 +1,32 @@
+.navigation-bar-container-holder {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin: 8px 0;
+    
+}
+
+.navigation-bar-container {
+    background: rgba(1,1,1,.5);
+    padding: 16px 12px;
+    max-width: 500px;
+    width: 80vw;
+    border-radius: 8px;
+}
+
+#navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+#navigation a {
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+
+@media (max-width: 440px) {
+    .navigation-bar-container-holder {
+        display: none;
+    }
+}
