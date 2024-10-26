@@ -1,9 +1,8 @@
-import react from "react";
+import react, { useEffect } from "react";
 import "./header.css";
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
 const Header = () => {
-    
     return (
     <div className="header-container-holder">
         <div className="header-container">
