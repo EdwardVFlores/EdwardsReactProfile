@@ -1,6 +1,7 @@
 .projects-container-holder {
     display: flex;
     justify-content: center;
+    padding-bottom: 24px;
 }
 .projects-container {
     display: flex;
