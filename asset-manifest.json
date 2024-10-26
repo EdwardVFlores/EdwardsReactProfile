@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/EdwardsReactProfile/static/css/main.66a60c18.css",
-    "main.js": "/EdwardsReactProfile/static/js/main.c16a2651.js",
+    "main.css": "/EdwardsReactProfile/static/css/main.0891dfff.css",
+    "main.js": "/EdwardsReactProfile/static/js/main.15d5c52c.js",
     "static/js/453.c1c2e1b5.chunk.js": "/EdwardsReactProfile/static/js/453.c1c2e1b5.chunk.js",
+    "static/media/website.png": "/EdwardsReactProfile/static/media/website.474e74d09c593c340f26.png",
     "static/media/fa-solid-900.ttf": "/EdwardsReactProfile/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/EdwardsReactProfile/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fa-solid-900.woff2": "/EdwardsReactProfile/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/fa-brands-400.woff2": "/EdwardsReactProfile/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/fa-regular-400.ttf": "/EdwardsReactProfile/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/pokedex_pikachu.png": "/EdwardsReactProfile/static/media/pokedex_pikachu.754c504377fe6d5a825b.png",
     "static/media/fa-regular-400.woff2": "/EdwardsReactProfile/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/EdwardsTrivia.png": "/EdwardsReactProfile/static/media/EdwardsTrivia.361905ed00c5fcef006e.png",
     "static/media/fa-v4compatibility.ttf": "/EdwardsReactProfile/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/EdwardsReactProfile/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/EdwardsReactProfile/index.html",
-    "main.66a60c18.css.map": "/EdwardsReactProfile/static/css/main.66a60c18.css.map",
-    "main.c16a2651.js.map": "/EdwardsReactProfile/static/js/main.c16a2651.js.map",
+    "main.0891dfff.css.map": "/EdwardsReactProfile/static/css/main.0891dfff.css.map",
+    "main.15d5c52c.js.map": "/EdwardsReactProfile/static/js/main.15d5c52c.js.map",
     "453.c1c2e1b5.chunk.js.map": "/EdwardsReactProfile/static/js/453.c1c2e1b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66a60c18.css",
-    "static/js/main.c16a2651.js"
+    "static/css/main.0891dfff.css",
+    "static/js/main.15d5c52c.js"
   ]
 }
