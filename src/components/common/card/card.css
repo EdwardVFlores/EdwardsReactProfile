@@ -1,0 +1,84 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    align-items: flex;
+    max-width: 500px;
+    width: 80vw;
+    padding: 12px;
+    border-radius: 12px;
+    text-align: left;
+}
+
+.card-header h2 {
+    margin: 0;
+}
+.card-header div {
+    margin: 4px 0 8px 0;
+}
+
+.card-image {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    margin: 0 -12px;
+    background-color: rgb(245, 245, 245);
+    overflow: hidden;
+}
+.card-image img {
+    height: 100%;
+}
+
+.card-description {
+    margin-left: 8px;
+}
+
+.card-buttons {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 80%;
+    gap: 8px;
+    text-align: center;
+}
+.card-buttons-container {
+    display: flex;
+    justify-content: end;
+}
+
+.card-buttons a {
+    text-decoration: none;
+    text-wrap: nowrap;
+}
+
+#card-project {
+    cursor: pointer;
+    background: rgb(180,65,255);
+    border-radius: 8px;
+    color: white;
+    padding: 8px 24px;
+}
+
+#card-code {
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: rgba(255,255,255,1);
+    color: rgb(180,65,255);
+    border-radius: 8px;
+    padding: 8px 24px;
+}
+
+@media (max-width: 440px) {
+
+    .card-buttons {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%;
+        gap: 8px;
+    }
+}
+
+@media (max-width: 180px) {
+    .card-buttons a {
+        text-wrap: wrap;
+    }
+}
