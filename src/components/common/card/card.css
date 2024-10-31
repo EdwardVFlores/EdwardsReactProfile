@@ -51,7 +51,7 @@
 
 #card-project {
     cursor: pointer;
-    background: rgb(180,65,255);
+    background: rgb(135, 43, 196);
     border-radius: 8px;
     color: white;
     padding: 8px 24px;
@@ -61,7 +61,7 @@
     cursor: pointer;
     border: 1px solid black;
     background-color: rgba(255,255,255,1);
-    color: rgb(180,65,255);
+    color: rgb(135, 43, 196);
     border-radius: 8px;
     padding: 8px 24px;
 }

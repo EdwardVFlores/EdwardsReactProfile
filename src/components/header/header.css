@@ -1,9 +1,8 @@
 .header-container-holder {
     display: flex;
     justify-content: center;
-    color: white;
+    color: black;
 }
-
 
 .header-text {
     margin: 8px 0 0 0;

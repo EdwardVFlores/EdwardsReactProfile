@@ -8,7 +8,7 @@
     line-height: 1.5;
     flex: auto;
     background-color: white;
-    color: rgb(180,65,255);
+    color: rgb(135, 43, 196);
     width: 100%;
     max-width: 500px;
     transition: transform 0.5s ease;
@@ -17,6 +17,6 @@
 .primary-button:hover {
     cursor: pointer;
     color: white;
-    background-color: rgb(180,65,255);
+    background-color: rgb(135, 43, 196);
     transform: scale(1.05);
 }
